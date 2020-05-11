@@ -22,7 +22,7 @@ public class Model {
 	 */
 	public List<Citta> getLeCitta(){
 		return leCitta;
-	}
+	} 
 	
 	// of course you can change the String output with what you think works best
 	//public String getUmiditaMedia(int mese) {
